@@ -8,7 +8,7 @@ terraform {
     }
 
 locals {
-  twotowers = ["sam", "aragorn", "merri","saruman","eomer"]
+  twotowers = ["sam", "aragorn", "merri","saruman","eomer","rohan"]
 
 }
 
